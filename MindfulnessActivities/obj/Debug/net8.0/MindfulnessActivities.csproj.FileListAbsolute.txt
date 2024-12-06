@@ -1,0 +1,4 @@
+C:\Users\nomce\OneDrive\Desktop\CSE 210\MindfulnessActivities\obj\Debug\net8.0\MindfulnessActivities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomce\OneDrive\Desktop\CSE 210\MindfulnessActivities\obj\Debug\net8.0\MindfulnessActivities.AssemblyInfoInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\MindfulnessActivities\obj\Debug\net8.0\MindfulnessActivities.AssemblyInfo.cs
+C:\Users\nomce\OneDrive\Desktop\CSE 210\MindfulnessActivities\obj\Debug\net8.0\MindfulnessActivities.csproj.CoreCompileInputs.cache
